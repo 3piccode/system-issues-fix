@@ -11,3 +11,4 @@ Or in dash (sh):
 ```shell
 $ hash -r pip
 ```
+* For more detail https://github.com/pypa/pip/issues/5221
