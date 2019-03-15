@@ -1,8 +1,8 @@
-Note: 
+Note: Before any fix start with ->
 ```shell
       $ sudo apt-get update
  ```
-
+--- --- ---
 
 # The following packages have unmet dependencies: linuxbrew-wrapper : Depends: zlib1g-dev but it is not going to be installed. E: Unable to correct problems, you have held broken packages.
 
