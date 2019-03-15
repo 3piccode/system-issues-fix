@@ -12,3 +12,5 @@ Or in dash (sh):
 $ hash -r pip
 ```
 * For more detail https://github.com/pypa/pip/issues/5221
+
+--- --- ---
