@@ -1,4 +1,4 @@
-Note: Before any fix start with ->
+# Note: Before any fix start with ->
 ```shell
       $ sudo apt-get update
  ```
