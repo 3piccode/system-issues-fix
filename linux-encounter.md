@@ -12,3 +12,20 @@ Fix : Take note of the required package version (in your case = 1:1.2.8.dfsg-2ub
  ```
  
  ---- --- ----
+# Ubuntu Launcher fix.
+1. try
+```shell
+$ sudo service lightdm restart
+```
+2. If restarting lightdm does not fix the issue, install:
+```shell
+$ sudo apt-get install unity
+```
+and
+```shell
+$ sudo apt-get --reinstall ubuntu-desktop
+```
+fellowed by
+```shell
+$ sudo service lightdm restart
+```
